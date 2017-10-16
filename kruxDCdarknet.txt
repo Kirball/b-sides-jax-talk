@@ -1,0 +1,92 @@
+
+
+
+
+
+
+Which badge did you create and what was the initial intended purpose behind
+the badge?
+
+Def Con Darknet Badge.  The badge was a learn to solder kit as well as a tool
+for players, or as we call them, agents in the contest to use to communicate
+with one another.
+
+What interested you in PCB creation / badge making?
+
+I've been working with electronics since I was a kid.  But I was interested in
+electronic badges after first seeing the electronic badges that Joe Grand
+made.
+
+Did you have a budget to start with if not how did you get funds?
+
+We have a rough BOM cost we shoot for each year.  The money to build the
+badges each year is funded out of pocket by people who run the Darknet
+contest.
+
+What advice would you give to others interested in making a badge?
+
+Start simple and build up complexity.  Don't underestimate the amount of work
+which is required in putting together a badge.
+
+Did you find having a team of different specializations worked for you or did
+you prefer to solo you badge creation?
+
+We split the work up based on specializations.  So I mostly work with the
+hardware, and cmdc0de works on the software.  We also have a few others who
+chip in on hardware and software, but it's mostly the two of us.
+
+Do you feel if badge life / badge makers went away the con would still have
+the same appeal for you?
+
+Most of the badge related work I do happens far before Def Con takes place.  I
+tend to be very busy working on running other contests during Def Con.
+However the friendships and comaradary I've gained from the badge making
+community would certainly be missed.  But there would be no shortage of things
+for me to do.
+
+What was the biggest hardship in the creation of your badge?
+
+In the past we have had flaws in the PCB design which have caused a
+significant amount of work for the Darknet and HHV volunteers to help people
+assembing the badge.
+
+What was your biggest success?
+
+This past year, was our most popular badge so far.  We were successful in
+learning from previous years mistakes, and even though we had more badges,
+there were significantly fewer problems associated with the badge.
+
+Did you lose money making your badge or did you make a profit?
+
+We make a profit each year from badge sales, which go toward running the Def
+Con Darknet contest, as well as allow us to donate money to the EFF each year.
+
+If you did make a profit would you consider it a decent livable wage for the
+man hours involved amongst all the participants?
+
+The hours put in toward development and making the badges each year end up
+being something we give toward making the Darknet contest better.  That time
+isn't compensated by the money we make in badge sales.  But we do get a lot of
+personal satisfaction in making a contest that people love to participate in.
+
+Do you plan to make a badge for DC26?
+
+Yes.
+
+Would you ever quit making badges?  If so why?
+
+I don't know if I would quit, but could see working on other projects.
+
+Do you have any regrets or things you wish would have been done differently?
+
+You always regret your mistakes.  But it happens and as long as you use that
+to learn and do things differently, it's not too bad.
+
+Are you overall proud of your final result or do you feel you could have done
+more or less for a better outcome?
+
+Yes.  The popularity of the Darknet Badge every year lets me know I'm doing
+the right thing.
+
+
+perl -e 's==UBER?=+y[:-o]}(;->\n{q-yp-y+k}?print:??;-p#)'

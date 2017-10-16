@@ -1,0 +1,63 @@
+Hey Brandon, Hope this helps:
+
+
+
+Which badge did you create and what was the initial intended purpose behind the badge?
+
+The Mr Robot Badge: https://hackaday.io/project/18508-mr-robot-badge
+
+The initial idea behind the badge was just to do a badge. The specific idea for the Mr. Robot Badge came from three observations at DC24. The first was the incredible amount of Mr. Robot promotion at the con. Yeah, DT is an advisor for the show, whatever, I get it. The second was the DC24 queercon badge -- that was the skin tone squid badge, done with clear soldermask. The third was And!Xor tweeting out sales, running up to the 9th floor of Paris, and seeing a line of three hundred people clamoring for 80 badges. It was awesome.
+
+So, I had the motivation to build a badge, but what should the badge look like? Well, Mr. Robot has the 'totally not ripped off from V for Vendetta mask' thing, and I know I can do skin tone solder mask. If a fab house can do one color of silk screen, they can do two, giving me the black and white for the rest of the mask. It was easy after that.
+
+
+What interested you in PCB creation / badge making?
+PCB art and design, although I'm really enjoying the whole entreprenural aspect of it
+
+Did you have a budget to start with if not how did you get funds?
+
+The inital budget / plan was to make about 500 badges, and not spend more than $10k. About half the budget came from money I just had sitting around (woo, AMD stock was nuts last year), and the other half was credit cards. 
+
+
+What advice would you give to others interested in making a badge?
+
+You have absoutely no idea how much time stuff will take. Here's an example. I had panelized, populated boards (two badges per panel), and the only thing I had to do was populate the through-hole battery holders, depanelize the boards, program the badges, and stuff them into bags. This took -- minimum -- forty hours. Figure about two minutes per board to populate and solder the battery holders, times five hundred. two minutes to depanelize, times 250. Programming was, again two minutes times five hundred, and kitting was a minute per badge, times 500. Something around there. I did this while watching Deep Space Nine, and I ran out of episodes. Oh, the depanelizing gave me a few blisters on my hand.
+
+Did you find having a team of different specializations worked for you or did you prefer to solo you badge creation?
+Solo. I had a guy doing the firmware, which wasn't that big of a deal -- most of it relied on pre-existing Arduino libraries. The pick and place was an 'I know a guy' situation, who had some pick and place machines that once made blackberries. 
+
+
+Do you feel if badge life / badge makers went away the con would still have the same appeal for you?
+Yeah, sure, I'd still go to DC, but I found a neat little niche in badgelife
+
+
+What was the biggest hardship in the creation of your badge?
+Run DRC. If you look very closely at a finished Mr. Robot Badge, you'll see a cut in the ground plane. I didn't run DRC after changing something, so I had to take a dremel to each individual badge. It worked, but it was annoying
+
+
+
+Did you lose money making your badge or did you make a profit?
+Actually made money. Wouldn't have done it if I wasn't going to at least get my money back. See next answer.
+
+
+If you did make a profit would you consider it a decent livable wage for the man hours involved amongst all the participants?
+
+Hell fucking no. I did the math on this, and I'm paying myself a dollar or two per hour for a second full-time job for nine months. For small-scale badges (and the Mr.Robot Badge had one of the larger quantities), I don't believe anyone can make a livable wage doing just one badge a year. You might have some success if you're running an engineering firm and this is just a side hustle, but no. You can't make a 
+
+
+
+Do you plan to make a badge for DC25?
+Yep
+
+Would you ever quit making badges? If so why?
+Nope. 
+
+
+Do you have any regrets or things you wish would have been done differently?
+I really should have had a prototype sooner, and a prototype that was closer to the finished badge. It's all a matter of managing time. Defcon is a fixed point in time, and if you don't get it done by then, it's not going to happen.
+
+
+
+Are you overall proud of your final result or do you feel you could have done more or less for a better outcome?
+I pulled it off, and it was a great learning experience. so I guess I'm proud of that. It's not really a matter of doing more, it's a matter of doing things differently. Although next time I'm going to get a few friends together for the mindless hands-on work like depanelizing and kitting.
+
