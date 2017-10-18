@@ -1,0 +1,67 @@
+Which badge did you create and what was the initial intended purpose behind the badge?
+
+Two badges
+
+    I was the programmer for the dc801 badge.
+    It's purpose was to be a fun badge and help fund our hackerspace
+    It played a game of 'infection' with other dc801 badges, as well as displayed shoutouts to other badges that conformed to the common badge BLE protocol. It was in the shape of a sheep, the 'spirit animal' if you will of the dc801 hackerspace
+
+    I was the PCB designer for the dczia badge
+    It's purpose was to generate a more cohesive group identity for dczia, a group mostly now in diaspora but originally all from New Mexico
+    It's design was an easy to modify Arduino shield that incorporated a display, RGB LEDs, and 4 mechanical keyboard keys
+
+What interested you in PCB creation / badge making?
+
+I'm a system engineer by day, but despite having a lot of freedom to design there, there are things I want to explore and develop and push without having to think about how it impacts the company. The badgelife scene allows for an outlet for that, to bring in skills I am fluent with.
+
+Did you have a budget to start with if not how did you get funds?
+
+Budgeting is important. A lot of the funds come out of our own pockets. It's very scary to drop several grand on your credit card with the hope that everyone that bought one pays. The budget strongly drives how many badges get built.
+
+That said, the goal is not about profit, it's about the novelty of pushing the demoscene. It's actually somewhat annoying to see the badges after the con show up on eBay at vastly inflated values. I worry about the future of the scene when you have the artists and creators pouring their soul and talent into a badge, selling it at a loss or just a little profit to share with other hackers, only to have a subset then slap those little chunks of soul on eBay to turn a profit with no value input to the design process. At some point, ideas that might have come forth get shuttered because it's just gonna end up as money in someone else's pockets, and it is antithetical to the scene to sell badges at max profit to other hackers.
+
+What advice would you give to others interested in making a badge?
+
+It's harder than you might think. An idea is a fleeting thing - you start into a design, and realize how much it will suck, and start over. But at some point, you're stuck, and now it's do or die. Will stuff ship in time? What do you do about batteries? Oh no, the vreg you wanted to use is no longer stocked anywhere, how do you fix it? No matter how well you plan, it's going to be hell to get it all pulled together.
+
+There's help out there for making badges, but you get what you put into it. No one else can do the work for you, but they can help provide little hints. There's not enough bandwidth to go around, so you need to go into it with the idea that you are learning how to solve problems on your own, not constantly rely on others to give you answers.
+
+Did you find having a team of different specializations worked for you or did you prefer to solo you badge creation?
+
+Teams are always a good thing, but coordination is hard. Egos can flare even amongst the most seasoned teams. At times you'll want to go it alone, but no badge maker is an island.
+
+Do you feel if badge life / badge makers went away the con would still have the same appeal for you?
+
+Probably. Defcon is all over the place in terms of focus.
+
+What was the biggest hardship in the creation of your badge?
+
+Trying to dial in the feature set. Everyone wants it all singing, all dancing, but then reality sets in about what is possible and you have to make it go.
+
+What was your biggest success?
+
+I delivered two working badges at defcon and people liked them
+
+Did you lose money making your badge or did you make a profit?
+
+Hahaha yeah not making any money at this. Especially when you factor in all the time required to make it happen.
+
+If you did make a profit would you consider it a decent livable wage for the man hours involved amongst all the participants?
+
+No, not even close
+
+Do you plan to make a badge for DC25?
+
+I made two for DC25. I'm guessing you mean DC26. Yes, there will be more badges.
+
+Would you ever quit making badges? If so why?
+
+If it got to the point where it felt like a job, I would quit. I'm not in it for profit. I'm not in it to make money for someone else. I'm in it to expand the demoscene of pcb badges, to share with my fellow hackers.
+
+Do you have any regrets or things you wish would have been done differently?
+
+Take a look at code commits after the con - it would have been nice to have them at the con. Ah well.
+
+Are you overall proud of your final result or do you feel you could have done more or less for a better outcome?
+
+Of course I'm proud. No other way to feel about it. Lots more work could have been put in, but I have to balance that against everything else I want to do with my personal life.

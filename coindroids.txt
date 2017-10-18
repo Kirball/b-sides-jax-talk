@@ -1,0 +1,125 @@
+
+
+1.  WTF is a coindroid
+
+After the robotic uprising and humanity’s falls (typical humans), the androids have since learned quite a bit from their once squishy overlords and now conduct war purely with money, specifically the blunt ample cryptocurrencies. Androids, as it turns out, haven’t really mastered the art of friendship but have developed quite a fondness for battle.
+
+2.  Why would I want to play this.
+
+Coindroids is completely skill-based, played with money, and played for money. Your actions are transactions, so you must choose them wisely. Your success will depend as much on your quick thinking as it will your methodical attention to detail throughout our ongoing story. If you like gaming, but wish there were more consequence and reward for your actions, Coindroids offers a unique environment where every action matters. 
+
+3.  Shooting coins??  Why??
+
+Our team has been involved in the blockchain space since early Bitcoin days and we have an obsession with the gamification of weird things. As we started to brainstorm game mechanics that fit on a blockchain, the fit was actually far more logical than we initially expected. 
+
+Writing a reason into the lore of the Coindroids universe ended up being pretty fun too.
+
+4.  Sounds cool how do I play.
+
+You'll need some coin, either Litecoin or Defcoin (you should ask Kirb for some defcoin ;) )
+
+Then head on over to https://coindroids.com  and create your first droid. I suggest following the guides over in our blog: http://blog.coindroids.com/creating-a-droid/ …
+
+5.  So why use multiple currencies?
+
+Some people want to try the game out before getting too invested, which is where the Defcoin realm is great. Then, if you want to get a bit more serious about it, the logical switch it to play with Litecoin. 
+
+We wanted to support Bitcoin too, and the system is written to do as such, but ten minute block times and $3 fees aren't condusive to enjoyable gameplay. 
+
+6.  Tell me about the special things you included for DC25
+
+For DC we always add some extra con-specific challenges. In the past we've added bosses, with big bounties for their death, that were hidden around the conference in other villages, held by special people, or just a neat technical challenge. This year we invited our players to try to defeat Count Zero, the evil jerk in charge of the Imperial One city. They needed to infiltrate the locked-down city and find his weakness. Nobody was able to pull this off yet, but many people are still trying. 
+
+7.  Will you be continuing this contest at DC26
+
+Of Course! 
+
+8.  Who the hell is the droid FUBrandon and why are they so lame?
+
+FUBrandon was programmed long ago with a mission unknown. We suspect their lameness may be an issue within their BIOS. 
+
+9.  Tell me about your other projects schemaverse and anything else you have in the works.
+
+Schemaverse is your classic space battle game that requires you to build bigger ifnrastrcuture than your enemies and work to destroy them all, taking control of their planets to further your own empire. The game is played entirely with SQL though, so you must connect directly to the central database and control your fleet programatically. Or hack the game. 
+
+10.  What badges did you purchase at DC25
+
+The only badge I managed to grab was the Car Hacking Badge. I'm scared to plug it into my car, but it's really really tempting. Cars are scary af. 
+
+11.  Any possiblity of a coin droids badge?
+
+We aren't against the idea, but we aren't hardware people at all. Definitely open to partnerships though, it would be a lot of fun to bring the game more into the physical realm. 
+
+12.  Thanks for you help if you have any epic stories you want to share please feel free
+
+This year, somebody wanted to program a bot on coindroids, so they wrote a program to scrape our site. They were absolutely successful and managed to make a script that notified them whenever they were attacked so that they could immediately defend or attack back. The best part though is that our site is built on an API that is available to all users, there was no reason to scrape the site, they just had to RTFM. 
+
+Also any links you want me to share like your write up on running a contest at defcon or twitter handles be sure to include thanks for you time and thanks for letting me be a part of your game:)
+Much love and respect brother.
+Appreciate it.
+P.S.  Where the hell is my contest badge :P
+
+It's beside me, sitting on my desk, waiting to be mailed by somebody who isn't lazy.
+4h 4 hours ago
+Abstrct
+
+1.  WTF is a coindroid
+
+After the robotic uprising and humanity?s falls (typical humans), the androids have since learned quite a bit from their once squishy overlords and now conduct war purely with money, specifically the blunt ample cryptocurrencies. Androids, as it turns out, haven?t really mastered the art of friendship but have developed quite a fondness for battle.
+
+2.  Why would I want to play this.
+
+Coindroids is completely skill-based, played with money, and played for money. Your actions are transactions, so you must choose them wisely. Your success will depend as much on your quick thinking as it will your methodical attention to detail throughout our ongoing story. If you like gaming, but wish there were more consequence and reward for your actions, Coindroids offers a unique environment where every action matters. 
+
+3.  Shooting coins??  Why??
+
+Our team has been involved in the blockchain space since early Bitcoin days and we have an obsession with the gamification of weird things. As we started to brainstorm game mechanics that fit on a blockchain, the fit was actually far more logical than we initially expected. 
+
+Writing a reason into the lore of the Coindroids universe ended up being pretty fun too.
+
+4.  Sounds cool how do I play.
+
+You'll need some coin, either Litecoin or Defcoin (you should ask Kirb for some defcoin ;) )
+
+Then head on over to https://coindroids.com  and create your first droid. I suggest following the guides over in our blog: http://blog.coindroids.com/creating-a-droid/ …
+
+5.  So why use multiple currencies?
+
+Some people want to try the game out before getting too invested, which is where the Defcoin realm is great. Then, if you want to get a bit more serious about it, the logical switch it to play with Litecoin. 
+
+We wanted to support Bitcoin too, and the system is written to do as such, but ten minute block times and $3 fees aren't conducive to enjoyable gameplay. 
+
+6.  Tell me about the special things you included for DC25
+
+For DC we always add some extra con-specific challenges. In the past we've added bosses, with big bounties for their death, that were hidden around the conference in other villages, held by special people, or just a neat technical challenge. This year we invited our players to try to defeat Count Zero, the evil jerk in charge of the Imperial One city. They needed to infiltrate the locked-down city and find his weakness. Nobody was able to pull this off yet, but many people are still trying. 
+
+7.  Will you be continuing this contest at DC26
+
+Of Course! 
+
+8.  Who the hell is the droid FUBrandon and why are they so lame?
+
+FUBrandon was programmed long ago with a mission unknown. We suspect their lameness may be an issue within their BIOS. 
+
+9.  Tell me about your other projects schemaverse and anything else you have in the works.
+
+Schemaverse is your classic space battle game that requires you to build bigger infrastructure than your enemies and work to destroy them all, taking control of their planets to further your own empire. The game is played entirely with SQL though, so you must connect directly to the central database and control your fleet programatically. Or hack the game. 
+
+10.  What badges did you purchase at DC25
+
+The only badge I managed to grab was the Car Hacking Badge. I'm scared to plug it into my car, but it's really really tempting. Cars are scary af. 
+
+11.  Any possibility of a coin droids badge?
+
+We aren't against the idea, but we aren't hardware people at all. Definitely open to partnerships though, it would be a lot of fun to bring the game more into the physical realm. 
+
+12.  Thanks for you help if you have any epic stories you want to share please feel free
+
+This year, somebody wanted to program a bot on coindroids, so they wrote a program to scrape our site. They were absolutely successful and managed to make a script that notified them whenever they were attacked so that they could immediately defend or attack back. The best part though is that our site is built on an API that is available to all users, there was no reason to scrape the site, they just had to RTFM. 
+
+Also any links you want me to share like your write up on running a contest at defcon or twitter handles be sure to include thanks for you time and thanks for letting me be a part of your game:) 
+Much love and respect brother.
+Appreciate it.
+P.S.  Where the hell is my contest badge :P
+
+It's beside me, sitting on my desk, waiting to be mailed by somebody who isn't lazy.
