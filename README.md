@@ -1,4 +1,10 @@
 # b-sides-jax-talk
+
+WATCH THE RAW FOOTAGE HERE:  https://www.youtube.com/watch?v=Nl1L2TcpTeI
+OR: https://www.youtube.com/watch?v=HF4n41rSZo4
+
+Check out mobilepentest.ninja hope to get back to work on it soon.
+
 The what interested you .txt file is the interview questions I will be uploading others interviews here soon as well 
 The slides are the powerpoint file it's very beginning stages atm
 sorry for any typos all will be hopefully ready in time for the talk
